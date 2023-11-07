@@ -1,0 +1,1 @@
+export { FiSrWomanHead } from "./FiSrWomanHead";
